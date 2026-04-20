@@ -22,4 +22,4 @@ I've set this project up just like the homeworks, where you can use 'make && ./r
 
 The main outputs of the program are a summed cumulative return from day 10 to 50, an update to day 15's return, and then another summed cumulative return showcasing the effect of the update.
 
-In lieu of a recorded video, I've included a pdf walkthrough of the project in the pdf titled 'Walkthrough_Fenwick_Tree_Final_Project' in this repository.
+In lieu of a recorded video, I included a pdf walkthrough of the project in the pdf titled 'Walkthrough_Fenwick_Tree_Final_Project' in this repository.
